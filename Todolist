@@ -1,0 +1,6 @@
+# todolist
+# This is Nodejs Todolist with ejs template. it allow user to store input on the webpage, and re-use the data.
+# using one ejs template user can navigate between home root and work root.
+# user can edit each template without interrupting the other.
+# it has a real time and day setup.
+# kindly check below and rate my work. advice is welcome.
